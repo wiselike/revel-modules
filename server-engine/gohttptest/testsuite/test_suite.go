@@ -18,8 +18,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/revel/revel"
-	"github.com/revel/revel/session"
+	"github.com/wiselike/revel"
+	"github.com/wiselike/revel/session"
 	"golang.org/x/net/websocket"
 )
 

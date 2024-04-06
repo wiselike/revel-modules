@@ -2,7 +2,7 @@ package pongo2
 
 import (
 	p2 "github.com/flosch/pongo2"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel"
 )
 
 func init() {

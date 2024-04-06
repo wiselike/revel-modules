@@ -2,7 +2,7 @@ package jobs
 
 import (
 	"github.com/revel/cron"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel"
 )
 
 const DefaultJobPoolSize = 10

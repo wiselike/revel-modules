@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/revel/cron"
-	"github.com/revel/modules/jobs/app/jobs"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel-modules/jobs/app/jobs"
+	"github.com/wiselike/revel"
 )
 
 type Jobs struct {

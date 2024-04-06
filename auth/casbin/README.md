@@ -1,7 +1,7 @@
 modules/casbin
 ======
 
-Casbin authz is an authorization middleware for [Revel](https://github.com/revel/revel), it's based on [https://github.com/casbin/casbin](https://github.com/casbin/casbin).
+Casbin authz is an authorization middleware for [Revel](https://github.com/wiselike/revel), it's based on [https://github.com/casbin/casbin](https://github.com/casbin/casbin).
 
 ## Simple Example
 
@@ -13,8 +13,8 @@ import (
 	"net/http/httptest"
 
 	"github.com/casbin/casbin"
-	"github.com/revel/revel"
-	"github.com/revel/modules/auth/casbin"
+	"github.com/wiselike/revel"
+	"github.com/wiselike/revel-modules/auth/casbin"
 )
 
 var adapter = casbinauth.NewAdapter(params)

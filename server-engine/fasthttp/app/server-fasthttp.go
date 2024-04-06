@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/revel/revel"
-	"github.com/revel/revel/utils"
+	"github.com/wiselike/revel"
+	"github.com/wiselike/revel/utils"
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttp/reuseport"
 )

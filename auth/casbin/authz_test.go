@@ -7,8 +7,8 @@ import (
 
 	"github.com/casbin/casbin"
 	_ "github.com/go-sql-driver/mysql"
-	gormdb "github.com/revel/modules/orm/gorm/app"
-	"github.com/revel/revel"
+	gormdb "github.com/wiselike/revel-modules/orm/gorm/app"
+	"github.com/wiselike/revel"
 )
 
 var (

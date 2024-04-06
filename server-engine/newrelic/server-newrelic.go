@@ -2,7 +2,7 @@ package revelnewrelic
 
 import (
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel"
 )
 
 type ServerNewRelic struct {
