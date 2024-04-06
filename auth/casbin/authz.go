@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/casbin/casbin"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel"
 )
 
 type CasbinModule struct {

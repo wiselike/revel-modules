@@ -13,8 +13,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/revel/modules/static/app/model"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel-modules/static/app/model"
+	"github.com/wiselike/revel"
 )
 
 // Static file serving controller.

@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/revel/cron"
-	"github.com/revel/revel"
+	"github.com/wiselike/revel"
 )
 
 // Callers can use jobs.Func to wrap a raw func.
