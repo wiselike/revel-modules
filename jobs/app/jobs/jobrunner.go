@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/revel/cron"
+	cron "github.com/wiselike/revel-cron"
 	"github.com/wiselike/revel"
 )
 

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/revel/cron"
+	cron "github.com/wiselike/revel-cron"
 	"github.com/wiselike/revel-modules/jobs/app/jobs"
 	"github.com/wiselike/revel"
 )

@@ -79,9 +79,9 @@ Jobs may be scheduled to run on any schedule.  There are two options for express
 1. A cron specification
 2. A fixed interval
 
-Revel uses the [`cron library`](https://godoc.org/github.com/revel/cron) to parse the
+Revel uses the [`cron library`](https://godoc.org/github.com/wiselike/revel-cron) to parse the
 schedule and run the jobs.  The library's
-[README](https://github.com/revel/cron/blob/master/README.md) provides a detailed
+[README](https://github.com/wiselike/revel-cron/blob/master/README.md) provides a detailed
 description of the format accepted.
 
 Jobs are generally registered using the

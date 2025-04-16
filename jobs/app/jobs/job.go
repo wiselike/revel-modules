@@ -6,7 +6,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/revel/cron"
+	cron "github.com/wiselike/revel-cron"
 	"github.com/wiselike/revel"
 )
 
