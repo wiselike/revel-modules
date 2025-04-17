@@ -13,6 +13,7 @@ require (
 	github.com/tylerb/is v2.1.4+incompatible // indirect
 	github.com/valyala/fasthttp v1.34.0
 	github.com/wiselike/revel v1.2.2
+	github.com/wiselike/revel-config v1.0.0
 	github.com/wiselike/revel-cron v1.1.0
 	github.com/yosssi/ace v0.0.5
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292

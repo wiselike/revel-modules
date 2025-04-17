@@ -7,8 +7,9 @@ import (
 
 	"github.com/casbin/casbin"
 	_ "github.com/go-sql-driver/mysql"
-	gormdb "github.com/wiselike/revel-modules/orm/gorm/app"
 	"github.com/wiselike/revel"
+	config "github.com/wiselike/revel-config"
+	gormdb "github.com/wiselike/revel-modules/orm/gorm/app"
 )
 
 var (
@@ -25,9 +26,14 @@ var testFilters = []revel.Filter{
 }
 
 func DefaultDbParams() gormdb.DbInfo {
+	if revel.Config == nil {
+		revel.Config = config.NewContext()
+	}
+
 	params := gormdb.DbInfo{}
 	params.DbDriver = "mysql"
-	params.DbHost = "(localhost:3306)"
+	params.DbHost = "localhost"
+	params.DbPort = 3306
 	params.DbUser = "root"
 	params.DbPassword = ""
 	params.DbName = "casbin"
