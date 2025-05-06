@@ -12,7 +12,7 @@ require (
 	github.com/newrelic/go-agent v3.4.0+incompatible
 	github.com/tylerb/gls v0.0.0-20150407001822-e606233f194d
 	github.com/valyala/fasthttp v1.34.0
-	github.com/wiselike/revel v1.3.0
+	github.com/wiselike/revel v1.3.1
 	github.com/wiselike/revel-config v1.2.0
 	github.com/wiselike/revel-cron v1.1.2
 	github.com/yosssi/ace v0.0.5

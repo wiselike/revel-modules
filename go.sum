@@ -175,8 +175,8 @@ github.com/valyala/fasthttp v1.34.0 h1:d3AAQJ2DRcxJYHm7OXNXtXt2as1vMDfxeIcFvhmGG
 github.com/valyala/fasthttp v1.34.0/go.mod h1:epZA5N+7pY6ZaEKRmstzOuYJx9HI8DI1oaCGZpdH4h0=
 github.com/valyala/tcplisten v1.0.0 h1:rBHj/Xf+E1tRGZyWIWwJDiRY0zc1Js+CV5DqwacVSA8=
 github.com/valyala/tcplisten v1.0.0/go.mod h1:T0xQ8SeCZGxckz9qRXTfG43PvQ/mcWh7FwZEA7Ioqkc=
-github.com/wiselike/revel v1.3.0 h1:BxHUaryAn0mkCr+c0ll8VkTTahnOvnc7VUahmQoadIw=
-github.com/wiselike/revel v1.3.0/go.mod h1:59beb2sCL+owJ3OORmouzD7lDukeYxH/RwzlN+kYDcs=
+github.com/wiselike/revel v1.3.1 h1:ud09+wyONFthNphcJkhmbu+ZNmsHkUwpTWWTPNMf4ec=
+github.com/wiselike/revel v1.3.1/go.mod h1:59beb2sCL+owJ3OORmouzD7lDukeYxH/RwzlN+kYDcs=
 github.com/wiselike/revel-config v1.2.0 h1:emFgHTixb54qmlfr5wSiRIG/exXLrKGv32xWsm2uMuM=
 github.com/wiselike/revel-config v1.2.0/go.mod h1:XVY82UnQ/mdB23u9AF/4ahhM1ISGctXkD/l/Qd3N/2U=
 github.com/wiselike/revel-cron v1.1.2 h1:UtH/Xs/6BA7XmQViDJwqPG3Z9zI04c+/5AEwklypCE4=
