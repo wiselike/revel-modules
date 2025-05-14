@@ -12,7 +12,7 @@ require (
 	github.com/newrelic/go-agent v3.4.0+incompatible
 	github.com/tylerb/gls v0.0.0-20150407001822-e606233f194d
 	github.com/valyala/fasthttp v1.34.0
-	github.com/wiselike/revel v1.3.1
+	github.com/wiselike/revel v1.3.2
 	github.com/wiselike/revel-config v1.2.0
 	github.com/wiselike/revel-cron v1.1.2
 	github.com/yosssi/ace v0.0.5
@@ -39,7 +39,7 @@ require (
 	github.com/tylerb/is v2.1.4+incompatible // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	github.com/wiselike/revel-log15 v2.13.0+incompatible // indirect
+	github.com/wiselike/revel-log15 v2.14.0+incompatible // indirect
 	github.com/wiselike/revel-pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/xeonx/timeago v1.0.0-rc5 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
@@ -48,6 +48,5 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
-	gopkg.in/stack.v0 v0.0.0-20141108040640-9b43fcefddd0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
